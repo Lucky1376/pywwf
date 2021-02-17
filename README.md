@@ -1,4 +1,5 @@
 # pywwf | PythonWorkingWithFiles
+# pip install pywwf
 
 # Функция math
 Принимает 2 аргумента | Файл, Операция+Число
